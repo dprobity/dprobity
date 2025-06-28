@@ -1,45 +1,96 @@
-# Hi there, I'm [Your Name]! 👋
+# 👋 Hi, I'm David Amobi Probity
 
-![Banner Image](your_banner_image_url_here)
+![Backend x ML Engineer Banner](https://your_banner_image_url_here.com)
 
-## About Me 🚀
+A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+From deploying event ticketing APIs to exploring LangChain, Pinecone, and DRF integrations, I’m on a mission to **bridge ML and backend systems**—with clean, scalable, real-world tools.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+---
 
-## My Skills 🧠
+## 🔍 What I Do
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ⚙️ Design & implement **robust REST/GraphQL APIs**
+- 🤖 Convert trained ML models into production-ready APIs
+- 🧠 Build semantic search systems using **LLMs + embeddings + vector DBs**
+- 🚀 Automate MLOps/DevOps pipelines for deploying models
+- 🧪 Tinker with LangChain, RAG pipelines, and Python-based ML APIs
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+---
 
-## Featured Projects 💻
+## 🛠 Tech & Tools I Use
 
-### [Project 1 Title](project_1_link)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/Langchain-black?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-2684FF?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+---
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+## 🚀 Featured Projects
 
-### [Project 2 Title](project_2_link)
+### 🎟 Event Ticketing API (Capstone | DRF)
+> Authentication • Seat Management • Booking Logic
 
-![Project 2 Screenshot](project_2_screenshot_url)
+A clean and production-style event backend system built with Django REST Framework. Includes:
+- Token-based Auth
+- Seat allocation + real-time booking
+- Modular app structure for scalability
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+📂 Repo: [Event Management API](https://github.com/dprobity/EventTicketAPI)
 
-## Get in Touch 📬
+---
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+### 🔎 Semantic Search API (WIP)
+> LangChain + OpenAI Embeddings + Pinecone + DRF
 
+Building an intelligent document search system using:
+- LLM Embeddings
+- FAISS/Pinecone Vector Search
+- LangChain's document loaders
+- FastAPI/DRF for serving results as REST endpoints
+
+🔬 Goal: Power fast, meaningful document retrieval via natural language.
+
+---
+
+### 🧪 Model Serving Experiments
+Several repositories demonstrate your work translating machine learning models (classification, regression) into usable backend endpoints, including experimentation with TorchServe, ONNX, and FastAPI inference servers.
+
+---
+
+## 📊 GitHub Stats
+
+![David’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=dprobity&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dprobity&layout=compact&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=dprobity&theme=flat)
+
+---
+
+## 🧭 Currently Learning
+
+- MLOps toolchains: Celery, Flower, Redis, Model versioning
+- LLM + Vector DB integration in API design
+- Semantic search and Retrieval-Augmented Generation (RAG)
+- Multi-tenant SaaS API patterns
+
+🎓 **ALX Pro Backend Engineering Program** — Using this to deepen production knowledge (DRF, GraphQL, Celery, scalability patterns)
+
+---
+
+## 📬 Let's Connect
+
+- 🌍 [LinkedIn](https://linkedin.com/in/your-link)
+- 📬 davidamobitsg@gmail.com
+- 🧠 Blog/Portfolio: coming soon!
+
+---
+
+> *“Don’t just build models—serve intelligence at scale.”*
 
