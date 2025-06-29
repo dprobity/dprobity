@@ -84,15 +84,6 @@ I’m currently diving deeper into PyTorch and figuring out how all these neural
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dprobity&layout=compact&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dprobity&theme=flat)
 
-<p align="center">
-  <a href="https://github.com/dprobity?tab=repositories&q=ml">
-    <img src="https://img.shields.io/badge/-Explore%20ML%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/dprobity?tab=repositories&q=api">
-    <img src="https://img.shields.io/badge/-Explore%20Backend%20Projects-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </a>
-</p>
-
 
 ---
 
