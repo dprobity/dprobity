@@ -1,6 +1,8 @@
 # 👋 Hi, I'm David Amobi Probity
 
-![Backend x ML Engineer Banner https://media.licdn.com/dms/image/v2/D4D16AQHxL6yKFuKbAg/profile-displaybackgroundimage-shrink_350_1400/B4DZX6pR9eG8Ac-/0/1743666881214?e=1756339200&v=beta&t=gtL07WcDsRHCvJf8PhUCfZ80ZWdYQ6HU0O0VdS0HbnU
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Hi%20there!%20I'm%20Freeman%20Chimbera&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20|%20Security%20Analyst&descAlign=62&descAlignY=55" alt="Header"/>
+</div>
 
 A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
 
