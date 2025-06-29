@@ -1,8 +1,6 @@
 # 👋 Hi, I'm David Amobi Probity
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Hi%20there!%20I'm%20Freeman%20Chimbera&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20|%20Security%20Analyst&descAlign=62&descAlignY=55" alt="Header"/>
-</div>
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hi,%20I'm%20David%20Amobi%20Probity%20%20-nl-%20&fontSize=50&fontAlign=51&fontAlignY=40&animation=twinkling&desc={"BAckend",%20"APIs",%20"Machine%20Learning"}&descSize=30&descAlign=56&descAlignY=54&textBg=false&fontColor=ooop
 
 A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
 
