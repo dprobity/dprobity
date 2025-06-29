@@ -73,6 +73,43 @@ Several repositories demonstrate your work translating machine learning models (
 
 ---
 
+
+## ✨ Experience
+🔬 Graduate Researcher — Chemical Engineering
+University of Alabama
+
+As part of my graduate research, I’ve been working at the intersection of machine learning and computational catalysis, applying neural networks to accelerate quantum simulations:
+
+🧠 Trained neural interatomic potentials (MLIPs) from scratch using architectures like NequIP and Allegro
+
+🔁 Fine-tuned foundational MLIP models such as:
+
+MACE – for active learning-based adsorption energy prediction
+
+ORB – for domain adaptation and low-data enhancement
+
+⚙️ Automated data generation and labeling pipelines using ASE, VASP, and uncertainty sampling
+
+📈 Benchmarked model performance using metrics like force RMSE, adsorption energy trends, and RDF comparisons
+
+One powerful insight I gained during this work:
+Unlike many general-purpose ML models, MLIPs can be directly served as calculators within simulation software like ASE, making them highly integrable into real-world scientific workflows.
+
+This sparked a deeper curiosity for me — realizing that ML models aren’t just meant to predict, but to be served, consumed, and scaled like any other software system.
+
+## 🚧 From MLIPs to ML APIs
+Now I’m shifting my focus from training models to serving models. I’m particularly exploring:
+
+⚙️ Model-to-API pipelines for deploying ML predictions via FastAPI & DRF
+
+🔎 Semantic search systems powered by LLMs + vector databases
+
+🔄 How to continuously embed and ingest new data in real-time into a vector store (e.g., Pinecone, FAISS) to improve retrieval and RAG pipelines
+
+💡 Exploring LangChain, document loaders, and scalable vector search to support intelligent app interfaces
+
+This blend of scientific modeling and API-first engineering defines how I think about machine learning today — not just research, but production-grade intelligence.
+
 ## 🧭 Currently Learning
 
 - MLOps toolchains: Celery, Flower, Redis, Model versioning
