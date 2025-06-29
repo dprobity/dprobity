@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Amobi Probity
 
-![Backend x ML Engineer Banner]([https://your_banner_image_url_here.com](https://media.licdn.com/dms/image/v2/D4D16AQHxL6yKFuKbAg/profile-displaybackgroundimage-shrink_350_1400/B4DZX6pR9eG8Ac-/0/1743666881214?e=1756339200&v=beta&t=gtL07WcDsRHCvJf8PhUCfZ80ZWdYQ6HU0O0VdS0HbnU))
+![Backend x ML Engineer Banner https://media.licdn.com/dms/image/v2/D4D16AQHxL6yKFuKbAg/profile-displaybackgroundimage-shrink_350_1400/B4DZX6pR9eG8Ac-/0/1743666881214?e=1756339200&v=beta&t=gtL07WcDsRHCvJf8PhUCfZ80ZWdYQ6HU0O0VdS0HbnU
 
 A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
 
@@ -8,7 +8,7 @@ From deploying event ticketing APIs to exploring LangChain, Pinecone, and DRF in
 
 ---
 
-## 🔍 What I Do
+## 🔍 My Interest 
 
 - ⚙️ Design & implement **robust REST/GraphQL APIs**
 - 🤖 Convert trained ML models into production-ready APIs
