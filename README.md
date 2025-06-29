@@ -1,10 +1,5 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hi,%20I'm%20David%20Amobi%20Probity%20%20-nl-%20&fontSize=50&fontAlign=51&fontAlignY=40&animation=twinkling&desc={"BAckend",%20"APIs",%20"Machine%20Learning"}&descSize=30&descAlign=56&descAlignY=54&textBg=false&fontColor=ooop"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hi,%20I'm%20David%20Amobi%20Probity%20%20-nl-%20&fontSize=50&fontAlign=51&fontAlignY=40&animation=twinkling&desc={%22BAckend%22,%20%22APIs%22,%20%22Machine%20Learning%22}&descSize=30&descAlign=56&descAlignY=54&textBg=false&fontColor=000000" alt="Hi, I'm David Amobi Probity Banner"/>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hi,%20I'm%20David%20Amobi%20Probity%20%20-nl-%20&fontSize=50&fontAlign=51&fontAlignY=40&animation=twinkling&desc={"BAckend",%20"APIs",%20"Machine%20Learning"}&descSize=30&descAlign=56&descAlignY=54&textBg=false&fontColor=ooop" alt="Header"/>
-</div>
 
 
 A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
