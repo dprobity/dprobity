@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Amobi Probity
 
-![Backend x ML Engineer Banner](https://your_banner_image_url_here.com)
+![Backend x ML Engineer Banner]([https://your_banner_image_url_here.com](https://media.licdn.com/dms/image/v2/D4D16AQHxL6yKFuKbAg/profile-displaybackgroundimage-shrink_350_1400/B4DZX6pR9eG8Ac-/0/1743666881214?e=1756339200&v=beta&t=gtL07WcDsRHCvJf8PhUCfZ80ZWdYQ6HU0O0VdS0HbnU))
 
 A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
 
@@ -26,10 +26,12 @@ From deploying event ticketing APIs to exploring LangChain, Pinecone, and DRF in
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/Langchain-black?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-2684FF?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ---
 
@@ -43,7 +45,7 @@ A clean and production-style event backend system built with Django REST Framewo
 - Seat allocation + real-time booking
 - Modular app structure for scalability
 
-📂 Repo: [Event Management API](https://github.com/dprobity/EventTicketAPI)
+📂 Repo: [Event Management API](https://github.com/dprobity/events_api)
 
 ---
 
@@ -61,7 +63,18 @@ Building an intelligent document search system using:
 ---
 
 ### 🧪 Model Serving Experiments
-Several repositories demonstrate your work translating machine learning models (classification, regression) into usable backend endpoints, including experimentation with TorchServe, ONNX, and FastAPI inference servers.
+Several repositories demonstrate my work translating machine learning models (classification, regression, MLIPs) into usable backend APIs, including:
+
+Experimentation with TorchServe, ONNX, and FastAPI inference servers
+
+Hands-on finetuning and API conversion for real-time inference and integration
+
+🚧 Exploring Machine Learning in Public
+I’m currently diving deeper into PyTorch and figuring out how all these neural network pieces connect — from model architecture to production serving.
+
+👇 You can explore my full repos here.
+[![Explore My ML Repos](https://img.shields.io/badge/-Explore%20My%20ML%20Repos-blue?style=for-the-badge)](https://github.com/dprobity?tab=repositories)
+[![Explore All Projects](https://img.shields.io/badge/-Explore%20All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dprobity?tab=repositories)
 
 ---
 
@@ -70,6 +83,16 @@ Several repositories demonstrate your work translating machine learning models (
 ![David’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=dprobity&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dprobity&layout=compact&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dprobity&theme=flat)
+
+<p align="center">
+  <a href="https://github.com/dprobity?tab=repositories&q=ml">
+    <img src="https://img.shields.io/badge/-Explore%20ML%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/dprobity?tab=repositories&q=api">
+    <img src="https://img.shields.io/badge/-Explore%20Backend%20Projects-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
