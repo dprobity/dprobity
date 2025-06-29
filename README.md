@@ -72,7 +72,7 @@ Hands-on finetuning and API conversion for real-time inference and integration
 🚧 Exploring Machine Learning in Public
 I’m currently diving deeper into PyTorch and figuring out how all these neural network pieces connect — from model architecture to production serving.
 
-👇 You can explore my full repos here.
+ You can explore my full repos here.
 [![Explore My ML Repos](https://img.shields.io/badge/-Explore%20My%20ML%20Repos-blue?style=for-the-badge)](https://github.com/dprobity?tab=repositories)
 [![Explore All Projects](https://img.shields.io/badge/-Explore%20All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dprobity?tab=repositories)
 
@@ -100,7 +100,7 @@ As part of my graduate research, I’ve been working at the intersection of mach
 
 MACE – for active learning-based adsorption energy prediction
 
-ORB – for domain adaptation and low-data enhancement
+ORB – for domain adaptation and low-data enhancement and co adsorption of CO and NO modelling
 
 ⚙️ Automated data generation and labeling pipelines using ASE, VASP, and uncertainty sampling
 
@@ -112,13 +112,13 @@ Unlike many general-purpose ML models, MLIPs can be directly served as calculato
 This sparked a deeper curiosity for me — realizing that ML models aren’t just meant to predict, but to be served, consumed, and scaled like any other software system.
 
 ## 🚧 From MLIPs to ML APIs
-Now I’m shifting my focus from training models to serving models. I’m particularly exploring:
+Now I’m connecting training models to serving models. I’m particularly exploring:
 
 ⚙️ Model-to-API pipelines for deploying ML predictions via FastAPI & DRF
 
 🔎 Semantic search systems powered by LLMs + vector databases
 
-🔄 How to continuously embed and ingest new data in real-time into a vector store (e.g., Pinecone, FAISS) to improve retrieval and RAG pipelines
+🔄 How to continuously embed and ingest new data in real-time into a vector store (Pinecone, FAISS) to improve retrieval and RAG pipelines
 
 💡 Exploring LangChain, document loaders, and scalable vector search to support intelligent app interfaces
 
@@ -137,7 +137,7 @@ This blend of scientific modeling and API-first engineering defines how I think 
 
 ## 📬 Let's Connect
 
-- 🌍 [LinkedIn](https://linkedin.com/in/your-link)
+- 🌍 [LinkedIn](https://linkedin.com/in/david-probity)
 - 📬 davidamobitsg@gmail.com
 - 🧠 Blog/Portfolio: coming soon!
 
