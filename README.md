@@ -4,7 +4,7 @@
 
 A Backend Engineer & Machine Learning Enthusiast focused on building **API-first platforms**, deploying ML models as **intelligent services**, and creating **semantic search systems** using **LLMs + Vector Databases**.
 
-From deploying event ticketing APIs to exploring LangChain, Pinecone, and DRF integrations, I’m on a mission to **bridge ML and backend systems**—with clean, scalable, real-world tools.
+From deploying event ticketing APIs to exploring LangChain, Pinecone, and DRF integrations, I’m figuring out best practices to **bridge ML and backend systems**—with clean, scalable, real-world tools.
 
 ---
 
